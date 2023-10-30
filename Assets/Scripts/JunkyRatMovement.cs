@@ -5,6 +5,8 @@ using UnityEngine;
 public class JunkyRatMovement : MonoBehaviour
 {
     private Rigidbody2D rb;
+
+    
   
 
 
@@ -16,6 +18,7 @@ public class JunkyRatMovement : MonoBehaviour
 
     private void Start()
     {
+       
        rb = GetComponent<Rigidbody2D>();
       
     }

@@ -6,6 +6,8 @@ using UnityEngine;
 public class DrugCollection : MonoBehaviour
 {
     private int drugs = 0;
+    
+
 
   
     
